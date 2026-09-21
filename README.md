@@ -11,6 +11,15 @@ Make sure your work is committed and pushed to your repository before submission
 
 Good luck!
 
+## Submission Evidence
+
+- Validation pull request: https://github.com/Alexander19ghi/github-skills-challenge/pull/1
+- GitHub Actions: https://github.com/Alexander19ghi/github-skills-challenge/actions
+- Test workflow: [python-package.yml](.github/workflows/python-package.yml)
+- Coverage workflow: [python-coverage.yml](.github/workflows/python-coverage.yml)
+- Successful test run: https://github.com/Alexander19ghi/github-skills-challenge/actions/runs/35564621882
+- Coverage run and pull request comment: https://github.com/Alexander19ghi/github-skills-challenge/actions/runs/35564621813
+
 
 ---
 
